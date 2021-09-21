@@ -1,0 +1,47 @@
+
+      input {
+        border-radius: 10px;
+        border: 1px solid white;
+        background-color: #363135;
+        color: white;
+        font-size: 34px;
+        height: 180px;
+        width: 300px;
+        margin-bottom: 10px;
+      }
+
+      button {
+        border-radius: 55%;
+        font-size: 30px;
+        color: white;
+        background: #978fa0;
+        width: 60px;
+        height: 60px;
+        margin: 6px;
+      }
+
+      .calculator {
+        margin-top: 30px;
+        border-radius: 20px;
+        background-color: #363135;
+        padding: 20px;
+        display: inline-block;
+      }
+      #historybtn {
+        width: 100px;
+        height: 40px;
+        padding: 5px;
+        font-size: 22px;
+      }
+      li{
+          font-size: 20px  ;
+      }
+      .clearC{
+        background-color: orange; 
+        border: 1px solid white;
+      }
+    .numberbtn{
+        background-color: rgb(68, 65, 65);
+        border: 1px solid white;
+                    
+    }
